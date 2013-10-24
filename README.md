@@ -1,2 +1,2 @@
-silverstripe-frontend-editing
+Silverstripe frontend editing
 =============================
